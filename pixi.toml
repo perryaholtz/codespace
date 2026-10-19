@@ -9,6 +9,8 @@ version = "0.1.0"
 jlab = "jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --IdentityProvider.token='' --ServerApp.password='' --config=jupyter_config.py"
 
 [dependencies]
+python = "3.14.*"
+pandas = ">=2.2,<4"
 jupyterlab = ">=4.6.4,<5"
 xeus-r = ">=0.11.2,<0.12"
 r-tidyverse = ">=2.0.0,<3"
