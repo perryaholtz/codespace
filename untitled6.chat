@@ -1,0 +1,27 @@
+{
+  "messages": [],
+  "users": {
+    "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona": {
+      "name": "OpenCode",
+      "initials": null,
+      "display_name": "OpenCode",
+      "avatar_url": "/api/ai/avatars/jupyter-ai-personas%3A%3Ajupyter_ai_acp_client%3A%3AOpenCodeAcpPersona",
+      "bot": true,
+      "color": null,
+      "username": "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona"
+    },
+    "hidden::jupyter_ai_system": {
+      "username": "hidden::jupyter_ai_system",
+      "name": "System",
+      "display_name": "System",
+      "avatar_url": null,
+      "color": null,
+      "bot": true,
+      "initials": null
+    }
+  },
+  "attachments": {},
+  "metadata": {
+    "id": "a8f041cb-b583-4b59-83e5-e61d2546ee31"
+  }
+}
